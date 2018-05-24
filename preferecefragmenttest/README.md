@@ -1,10 +1,19 @@
-# 2.4  ActivityLifeCycleTest
+#### 主界面  
+![Linear](https://raw.githubusercontent.com/rushhito/photos/master/preference1.png)   
 
-通过启动另一个活动 (NormalActivity) 和对话框 (DialogActivity) 来展示 activity 的生命周期。
+### Dialog-based preference   
 
-![](https://ws1.sinaimg.cn/large/006tKfTcgy1fpg60a3c2uj30a10kr0td.jpg)
+##编辑文本对话框及列表文本框  
 
-![](https://ws3.sinaimg.cn/large/006tKfTcgy1fpg6249pc8j313d0c9gpc.jpg)
+![Linear](https://raw.githubusercontent.com/rushhito/photos/master/preference2.png)  
+
+##展示另一个页面及跳转到一个网页   
+
+![Linear](https://raw.githubusercontent.com/rushhito/photos/master/preference3.png)   
+
+##父类复选框及子类复选框的使用  
+
+![Linear](https://raw.githubusercontent.com/rushhito/photos/master/preference4.png)  
 
 
 
